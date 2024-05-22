@@ -1,0 +1,6 @@
+test run 
+hi my name is chitti 
+speed 1 t
+memory 1mb
+
+
